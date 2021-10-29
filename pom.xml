@@ -24,7 +24,6 @@
         <module>mycloud-controller</module>
         <module>mycloud-domain</module>
         <module>mycloud-infrastructure</module>
-        <module>src</module>
         <module>start</module>
     </modules>
 
